@@ -1,2 +1,2 @@
 # blackjack-app
-blackjackgame2019.netlify.app
+https://tender-wing-b8c6e5.netlify.app/
